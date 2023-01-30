@@ -1,5 +1,5 @@
 # UN-CENSUS
-Mini Project made in my college days
+--Mini Project for college.
 
 We got a dataset of the US census in which we predicted the income (>=50k or <50k) based on the columns using Supervised Learning.
 
